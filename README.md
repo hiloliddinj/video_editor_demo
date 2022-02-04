@@ -1,6 +1,6 @@
 # video_editor_demo
 
-A new Flutter project.
+Video Editor Demo
 
 ## Getting Started
 
